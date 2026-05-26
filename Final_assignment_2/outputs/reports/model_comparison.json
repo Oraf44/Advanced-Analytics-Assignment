@@ -1,0 +1,28 @@
+{
+  "dataset": {
+    "total_images": 14791,
+    "num_classes": 28,
+    "train": 10353,
+    "val": 2218,
+    "test": 2220
+  },
+  "efficientnet_b0": {
+    "accuracy": 0.7319819819819819,
+    "macro_f1": 0.7026213266511732,
+    "weighted_f1": 0.742257227864106,
+    "top3_acc": 0.8927927927927928,
+    "num_params": 4045976,
+    "train_time_min": 279.28,
+    "overfitting_score": 0.3245
+  },
+  "resnet50": {
+    "accuracy": 0.8148648648648649,
+    "macro_f1": 0.7676505959412375,
+    "weighted_f1": 0.8134071850433218,
+    "top3_acc": 0.9328828828828829,
+    "num_params": 23569500,
+    "train_time_min": 474.65,
+    "overfitting_score": 0.4255
+  },
+  "best_model": "ResNet-50"
+}

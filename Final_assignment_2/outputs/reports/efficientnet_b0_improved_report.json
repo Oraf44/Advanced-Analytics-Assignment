@@ -1,0 +1,13 @@
+{
+  "backbone": "efficientnet_b0",
+  "dropout": 0.4,
+  "weight_decay": 0.0001,
+  "mixup": false,
+  "train_time_min": 38.12,
+  "train_acc": 90.196,
+  "val_acc": 72.813,
+  "test_acc": 70.586,
+  "macro_f1": 0.6858,
+  "top3_acc": 88.964,
+  "overfit_gap": 19.61
+}

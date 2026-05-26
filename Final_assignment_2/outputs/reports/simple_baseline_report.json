@@ -1,0 +1,12 @@
+{
+  "resnet50_simple": {
+    "train": 65.0,
+    "test": 52.2,
+    "gap": 12.8
+  },
+  "efficientnet_b0_simple": {
+    "train": 82.0,
+    "test": 61.9,
+    "gap": 20.1
+  }
+}

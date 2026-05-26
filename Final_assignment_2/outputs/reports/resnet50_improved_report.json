@@ -1,0 +1,13 @@
+{
+  "backbone": "resnet50",
+  "dropout": 0.4,
+  "weight_decay": 0.0001,
+  "mixup": false,
+  "train_time_min": 53.38,
+  "train_acc": 96.426,
+  "val_acc": 79.982,
+  "test_acc": 78.739,
+  "macro_f1": 0.7412,
+  "top3_acc": 92.613,
+  "overfit_gap": 17.69
+}
