@@ -1,0 +1,15 @@
+alter,category,doc_count
+Donald Trump,email,352
+Donald Trump,media_article,26
+Donald Trump,transcript,26
+Donald Trump,court_filing,15
+Donald Trump,report,13
+Reid Weingarten,email,191
+Reid Weingarten,transcript,7
+Reid Weingarten,media_article,7
+Reid Weingarten,report,6
+unknown person A,email,426
+unknown person A,transcript,139
+unknown person A,report,60
+unknown person A,media_article,28
+unknown person A,court_filing,20

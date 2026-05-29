@@ -1,0 +1,160 @@
+source,target,weight
+Jeffrey Epstein,email,1011
+Jeffrey Epstein,transcript,251
+unknown person B,report,204
+unknown person B,email,181
+unknown person B,transcript,159
+Donald Trump,email,146
+Jeffrey Epstein,report,126
+Jeffrey Epstein,mixed_document,116
+Jeffrey Epstein,media_article,103
+Jeffrey Epstein,court_filing,82
+unknown person B,book_excerpt,82
+unknown person C,report,76
+Bill Clinton,email,60
+unknown person C,email,58
+unknown person B,other,55
+Jeffrey Epstein,book_excerpt,51
+unknown person B,media_article,51
+Melanie Spinella,email,46
+"Prince Andrew, Duke of York",email,42
+Virginia Roberts Giuffre,transcript,41
+unknown person C,transcript,40
+Ghislaine Maxwell,email,39
+Alan M. Dershowitz,transcript,38
+Donald Trump,media_article,36
+unknown person D,report,36
+Alan M. Dershowitz,email,35
+Bradley James Edwards,email,35
+Donald Trump,report,35
+Edward Snowden,book_excerpt,35
+Jeffrey Epstein,memorandum,35
+unknown person B,memorandum,35
+unknown person B,mixed_document,32
+Alan M. Dershowitz,court_filing,31
+Edward Snowden,report,30
+Jeffrey Epstein,letter,30
+Martin G. Weinberg,email,29
+unknown person C,book_excerpt,28
+Alan M. Dershowitz,media_article,26
+Donald Trump,transcript,26
+Mr. Scarola,transcript,26
+Palm Beach Police Department,report,26
+unknown person B,court_filing,26
+Lawrence M. Krauss,email,24
+Alan M. Dershowitz,report,23
+FBI,report,23
+jeevacation@gmail.com,email,23
+Bill Clinton,report,22
+Darren K. Indyke,email,22
+Brad Wechsler,email,21
+Palm Beach Police Department,media_article,21
+Peter Aldhous,email,21
+"Prince Andrew, Duke of York",media_article,21
+unknown person D,email,21
+Alan M. Dershowitz,mixed_document,20
+Sayeret Matkal,book_excerpt,20
+Yitzhak Rabin,book_excerpt,20
+communication,email,20
+court,transcript,20
+Ghislaine Maxwell,court_filing,19
+Jonathan Farkas,email,19
+R. Alexander Acosta,media_article,19
+Agent Richards,transcript,18
+Bill Clinton,media_article,18
+Eileen Alexandersson,email,18
+Ghislaine Maxwell,book_excerpt,18
+FBI,transcript,17
+Ghislaine Maxwell,transcript,17
+Michael Wolff,email,17
+Miro,email,17
+Ms. McCawley,transcript,17
+Steve Bannon,email,17
+unknown person C,other,17
+Alan M. Dershowitz,book_excerpt,16
+Author,book_excerpt,16
+Bill Clinton,book_excerpt,16
+Ghislaine Maxwell,mixed_document,16
+Mr. Tein,transcript,16
+Nava,book_excerpt,16
+Po,email,16
+unknown person C,media_article,16
+Ehud Barak,email,15
+Ghislaine Maxwell,media_article,15
+Leon,email,15
+Mr. Simpson,transcript,15
+President Clinton,email,15
+Sharon Churcher,email,15
+Susan Nickel-Schindewolf,email,15
+Tom Pritzker,email,15
+court,court_filing,15
+Alan M. Dershowitz,memorandum,14
+Bill Clinton,memorandum,14
+Detective Joseph Recarey,report,14
+Steve Bannon,transcript,14
+unknown person C,court_filing,14
+unknown person E,report,14
+Barry E. Krischer,media_article,13
+Bill Clinton,mixed_document,13
+Brad S. Karp,email,13
+China,report,13
+Detective Joe Recarey,transcript,13
+Jack A. Goldberger,mixed_document,13
+Jane Doe #3,court_filing,13
+Jeffrey Epstein,public record,13
+Kathy Ruemmler,email,13
+Larson,email,13
+Lawrence Summers,email,13
+Mr. Leopold,transcript,13
+Virginia Roberts Giuffre,media_article,13
+father,book_excerpt,13
+unknown person B,letter,13
+unknown person C,mixed_document,13
+unknown recipient,email,13
+Avraham,report,12
+Bill Clinton,court_filing,12
+Donald Trump,mixed_document,12
+Ehud Barak,report,12
+Jack A. Goldberger,media_article,12
+Joslin,email,12
+Police Chief Michael Reiter,media_article,12
+"Prince Andrew, Duke of York",book_excerpt,12
+"Prince Andrew, Duke of York",mixed_document,12
+Virginia Roberts Giuffre,court_filing,12
+Avraham,book_excerpt,11
+Ehud Barak,book_excerpt,11
+FBI,book_excerpt,11
+Israel,book_excerpt,11
+Israel,report,11
+Laura Poitras,book_excerpt,11
+Mr. Cassell,transcript,11
+Palm Beach Police Department,transcript,11
+Paris,email,11
+"Prince Andrew, Duke of York",court_filing,11
+Shimon Peres,report,11
+United States,book_excerpt,11
+unknown person D,book_excerpt,11
+unknown person D,transcript,11
+witness,transcript,11
+Annette Witheridge,email,10
+Ariel Sharon,book_excerpt,10
+Barry E. Krischer,mixed_document,10
+Benjamin Netanyahu,book_excerpt,10
+Boris Nikolic,email,10
+Donald Trump,book_excerpt,10
+FBI,media_article,10
+Ghislaine Maxwell,report,10
+Haley Robson,media_article,10
+Hillary Rodham Clinton,report,10
+Ken Starr,email,10
+Kenneth W. Starr,mixed_document,10
+Menachem Begin,book_excerpt,10
+Motta Gur,book_excerpt,10
+New York,email,10
+Palm Beach Police Department,mixed_document,10
+Police Chief Michael Reiter,mixed_document,10
+Reid Weingarten,email,10
+Roy Black,media_article,10
+Yasser Arafat,book_excerpt,10
+Yitzhak Rabin,report,10
+unknown person E,email,10

@@ -1,0 +1,10 @@
+id,label,type
+court_filing,court_filing,Category
+email,email,Category
+media_article,media_article,Category
+report,report,Category
+transcript,transcript,Category
+Donald Trump,Donald Trump,Entity
+Jeffrey Epstein,Jeffrey Epstein,Entity
+Reid Weingarten,Reid Weingarten,Entity
+unknown person A,unknown person A,Entity

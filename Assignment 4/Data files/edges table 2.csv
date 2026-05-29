@@ -1,0 +1,18 @@
+source,target,weight
+Donald Trump,email,352
+Donald Trump,media_article,26
+Donald Trump,transcript,26
+Donald Trump,court_filing,15
+Donald Trump,report,13
+Reid Weingarten,email,191
+Reid Weingarten,transcript,7
+Reid Weingarten,media_article,7
+Reid Weingarten,report,6
+unknown person A,email,426
+unknown person A,transcript,139
+unknown person A,report,60
+unknown person A,media_article,28
+unknown person A,court_filing,20
+Jeffrey Epstein,Donald Trump,1
+Jeffrey Epstein,Reid Weingarten,1
+Jeffrey Epstein,unknown person A,1

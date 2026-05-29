@@ -1,0 +1,27 @@
+alter,category,doc_count
+Donald Trump,email,332
+Donald Trump,transcript,25
+Donald Trump,media_article,12
+Donald Trump,mixed_document,12
+Donald Trump,report,8
+Donald Trump,court_filing,7
+Donald Trump,book_excerpt,4
+Reid Weingarten,email,179
+Reid Weingarten,mixed_document,8
+Reid Weingarten,transcript,6
+Reid Weingarten,book_excerpt,5
+Reid Weingarten,report,5
+Reid Weingarten,media_article,5
+unknown person A,email,357
+unknown person A,transcript,55
+unknown person A,report,36
+unknown person A,court_filing,11
+unknown person A,media_article,10
+unknown person A,public record,4
+unknown person A,public_record,3
+unknown person A,mixed_document,3
+unknown person A,memorandum,2
+unknown person A,letter,2
+unknown person A,book_excerpt,2
+unknown person A,other,1
+unknown person A,financial_document,1

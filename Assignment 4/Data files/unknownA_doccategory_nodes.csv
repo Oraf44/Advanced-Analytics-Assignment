@@ -1,0 +1,95 @@
+id,label,node_type
+unknown person E,unknown person E,Entity
+New York,New York,Entity
+unknown person B,unknown person B,Entity
+Steve Bannon,Steve Bannon,Entity
+unknown person C,unknown person C,Entity
+Detective Joseph Recarey,Detective Joseph Recarey,Entity
+unknown person D,unknown person D,Entity
+Laura Poitras,Laura Poitras,Entity
+Larson,Larson,Entity
+Alan M. Dershowitz,Alan M. Dershowitz,Entity
+Donald Trump,Donald Trump,Entity
+father,father,Entity
+Hillary Rodham Clinton,Hillary Rodham Clinton,Entity
+Eileen Alexandersson,Eileen Alexandersson,Entity
+Leon,Leon,Entity
+Bradley James Edwards,Bradley James Edwards,Entity
+Sharon Churcher,Sharon Churcher,Entity
+Boris Nikolic,Boris Nikolic,Entity
+Jeffrey Epstein,Jeffrey Epstein,Entity
+Peter Aldhous,Peter Aldhous,Entity
+Jonathan Farkas,Jonathan Farkas,Entity
+Ehud Barak,Ehud Barak,Entity
+Avraham,Avraham,Entity
+Ghislaine Maxwell,Ghislaine Maxwell,Entity
+Bill Clinton,Bill Clinton,Entity
+Virginia Roberts Giuffre,Virginia Roberts Giuffre,Entity
+Mr. Tein,Mr. Tein,Entity
+witness,witness,Entity
+Susan Nickel-Schindewolf,Susan Nickel-Schindewolf,Entity
+Jack A. Goldberger,Jack A. Goldberger,Entity
+Palm Beach Police Department,Palm Beach Police Department,Entity
+Benjamin Netanyahu,Benjamin Netanyahu,Entity
+Miro,Miro,Entity
+"Prince Andrew, Duke of York","Prince Andrew, Duke of York",Entity
+jeevacation@gmail.com,jeevacation@gmail.com,Entity
+Po,Po,Entity
+Martin G. Weinberg,Martin G. Weinberg,Entity
+court,court,Entity
+Haley Robson,Haley Robson,Entity
+Motta Gur,Motta Gur,Entity
+Police Chief Michael Reiter,Police Chief Michael Reiter,Entity
+Roy Black,Roy Black,Entity
+Detective Joe Recarey,Detective Joe Recarey,Entity
+Edward Snowden,Edward Snowden,Entity
+unknown recipient,unknown recipient,Entity
+Lawrence M. Krauss,Lawrence M. Krauss,Entity
+FBI,FBI,Entity
+Kenneth W. Starr,Kenneth W. Starr,Entity
+Kathy Ruemmler,Kathy Ruemmler,Entity
+Michael Wolff,Michael Wolff,Entity
+Darren K. Indyke,Darren K. Indyke,Entity
+Menachem Begin,Menachem Begin,Entity
+Ms. McCawley,Ms. McCawley,Entity
+Mr. Scarola,Mr. Scarola,Entity
+Barry E. Krischer,Barry E. Krischer,Entity
+Yitzhak Rabin,Yitzhak Rabin,Entity
+Ariel Sharon,Ariel Sharon,Entity
+United States,United States,Entity
+Sayeret Matkal,Sayeret Matkal,Entity
+Annette Witheridge,Annette Witheridge,Entity
+Israel,Israel,Entity
+R. Alexander Acosta,R. Alexander Acosta,Entity
+Nava,Nava,Entity
+Author,Author,Entity
+communication,communication,Entity
+Brad S. Karp,Brad S. Karp,Entity
+China,China,Entity
+Melanie Spinella,Melanie Spinella,Entity
+Mr. Simpson,Mr. Simpson,Entity
+Ken Starr,Ken Starr,Entity
+Jane Doe #3,Jane Doe #3,Entity
+Mr. Cassell,Mr. Cassell,Entity
+Tom Pritzker,Tom Pritzker,Entity
+Lawrence Summers,Lawrence Summers,Entity
+President Clinton,President Clinton,Entity
+Mr. Leopold,Mr. Leopold,Entity
+Shimon Peres,Shimon Peres,Entity
+Agent Richards,Agent Richards,Entity
+Yasser Arafat,Yasser Arafat,Entity
+Reid Weingarten,Reid Weingarten,Entity
+Brad Wechsler,Brad Wechsler,Entity
+Joslin,Joslin,Entity
+Paris,Paris,Entity
+email,email,Category
+transcript,transcript,Category
+report,report,Category
+book_excerpt,book_excerpt,Category
+media_article,media_article,Category
+memorandum,memorandum,Category
+mixed_document,mixed_document,Category
+public record,public record,Category
+court_filing,court_filing,Category
+letter,letter,Category
+other,other,Category

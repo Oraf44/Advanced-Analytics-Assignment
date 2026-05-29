@@ -1,0 +1,4 @@
+source,target,weight,edge_type
+Jeffrey Epstein,Donald Trump,1,ego_link
+Jeffrey Epstein,Reid Weingarten,1,ego_link
+Jeffrey Epstein,unknown person A,1,ego_link
